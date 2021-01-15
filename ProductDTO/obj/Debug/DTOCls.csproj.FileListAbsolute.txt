@@ -1,0 +1,15 @@
+E:\CloudDisk\DataG\LTWWW\Demos\API_CRUD\ProductAPI\ProductDTO\bin\Debug\ProductDTO.dll
+E:\CloudDisk\DataG\LTWWW\Demos\API_CRUD\ProductAPI\ProductDTO\bin\Debug\ProductDTO.pdb
+E:\CloudDisk\DataG\LTWWW\Demos\API_CRUD\ProductAPI\ProductDTO\obj\Debug\ProductDTO.dll
+E:\CloudDisk\DataG\LTWWW\Demos\API_CRUD\ProductAPI\ProductDTO\obj\Debug\ProductDTO.pdb
+E:\CloudDisk\DataG\LTWWW\Shared\demos\API\ProductAPIServiceConsume\ProductDTO\bin\Debug\ProductDTO.dll
+E:\CloudDisk\DataG\LTWWW\Shared\demos\API\ProductAPIServiceConsume\ProductDTO\bin\Debug\ProductDTO.pdb
+E:\CloudDisk\DataG\LTWWW\Shared\demos\API\ProductAPIServiceConsume\ProductDTO\obj\Debug\DTOCls.csprojResolveAssemblyReference.cache
+E:\CloudDisk\DataG\LTWWW\Shared\demos\API\ProductAPIServiceConsume\ProductDTO\obj\Debug\ProductDTO.dll
+E:\CloudDisk\DataG\LTWWW\Shared\demos\API\ProductAPIServiceConsume\ProductDTO\obj\Debug\ProductDTO.pdb
+C:\Users\Admin\Downloads\API-20200719T132345Z-001\API\ProductAPIServiceConsume\ProductDTO\bin\Debug\ProductDTO.dll
+C:\Users\Admin\Downloads\API-20200719T132345Z-001\API\ProductAPIServiceConsume\ProductDTO\bin\Debug\ProductDTO.pdb
+C:\Users\Admin\Downloads\API-20200719T132345Z-001\API\ProductAPIServiceConsume\ProductDTO\obj\Debug\DTOCls.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\API-20200719T132345Z-001\API\ProductAPIServiceConsume\ProductDTO\obj\Debug\DTOCls.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\API-20200719T132345Z-001\API\ProductAPIServiceConsume\ProductDTO\obj\Debug\ProductDTO.dll
+C:\Users\Admin\Downloads\API-20200719T132345Z-001\API\ProductAPIServiceConsume\ProductDTO\obj\Debug\ProductDTO.pdb
